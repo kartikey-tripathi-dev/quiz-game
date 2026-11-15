@@ -5,5 +5,7 @@ Its a simple quiz game based on mainly file input/output
 - New quiz questions can be added through a csv file
 - questions are randomized using random module
 - handles errors such as empty questions file or a missing file in the folder
+- displays top scorers
+- error handling 
 ## How to Run
 python quiz.py
