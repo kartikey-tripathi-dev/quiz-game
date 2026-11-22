@@ -1,7 +1,21 @@
-Questions,Answers
-Which data structure follows LIFO?,Stack
-How many bits make one byte?,8
-What is 5 + 7?,12
-"Which is bigger, 5 or -5",5
-Which is  the largest ocean?,Pacific
-What is 2^10?,1024
+Questions,Answers,Field,Difficulty
+"What is the largest planet in our solar system?","Jupiter","Science","Easy"
+"Who invented the telephone?","Alexander Graham Bell","History","Easy"
+"What is the chemical symbol for gold?","Au","Chemistry","Easy"
+"Which is the longest river in the world?","Nile","Geography","Easy"
+"What is the capital of Japan?","Tokyo","Geography","Easy"
+"How many bones are there in an adult human body?","206","Biology","Medium"
+"What is the hardest natural substance on Earth?","Diamond","Science","Easy"
+"Who wrote the play Romeo and Juliet?","William Shakespeare","Literature","Easy"
+"What does CPU stand for?","Central Processing Unit","Technology","Easy"
+"Which gas do plants absorb during photosynthesis?","Carbon dioxide","Biology","Easy"
+"What is the square root of 144?","12","Mathematics","Easy"
+"Who was the first person to walk on the Moon?","Neil Armstrong","History","Medium"
+"What is the SI unit of electric current?","Ampere","Physics","Medium"
+"Which country is known as the Land of the Rising Sun?","Japan","Geography","Easy"
+"What is the value of pi up to two decimal places?","3.14","Mathematics","Easy"
+"What is the study of earthquakes called?","Seismology","Science","Medium"
+"Which programming language was created by Guido van Rossum?","Python","Technology","Easy"
+"What is the smallest prime number?","2","Mathematics","Easy"
+"Which layer of the atmosphere contains the ozone layer?","Stratosphere","Geography","Medium"
+"What is the powerhouse of the cell?","Mitochondria","Biology","Easy"
