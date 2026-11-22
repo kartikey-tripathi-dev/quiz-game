@@ -6,6 +6,7 @@ Its a simple quiz game based on mainly file input/output
 - questions are randomized using random module
 - handles errors such as empty questions file or a missing file in the folder
 - displays top scorers
-- error handling 
+- error handling
+- difficulty level to choose 
 ## How to Run
 python quiz.py
